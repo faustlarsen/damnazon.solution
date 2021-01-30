@@ -21,11 +21,11 @@ Ex.) [Visual Studio Code](https://code.visualstudio.com/)
 * MySQL Community Server & Workbench
 ### 🔧 **Setup/Installation**
 #### **Project Editor Setup**
-1. Copy this download link: https://github.com/cordenbrock/Damnazon.Solutions.git
+1. Copy this download link: https://github.com/faustlarsen/Damnazon.Solutions.git
 2. Open bash and go to the directory where you would like to store your cloned project.
 3. Clone the repo.
 ```
-git clone https://github.com/cordenbrock/Damnazon.Solutions.git
+git clone https://github.com/faustlarsen/Damnazon.Solutions.git
 ```
 4. Navigate to the cloned project folder and open VS code.
 ```
